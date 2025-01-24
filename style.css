@@ -1,0 +1,29 @@
+header{
+    background-color: white;
+    height: 90px;
+    
+}
+header h1{
+    text-align: center;
+}
+body{
+   
+    background-image: url(https://instamarketca.com/wp-content/uploads/pan-sandwich-artesanal.jpg);
+}
+h2{
+    background-color: rgb(112, 236, 112);
+}
+div.sajatdoboz{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    margin: 2%;
+    border: black solid 8px;
+}
+div.sajatdoboz h3{
+    text-align: center;
+}
+div.sajatdoboz p{
+    text-align: center;
+    color: rgb(241, 47, 47);
+}
